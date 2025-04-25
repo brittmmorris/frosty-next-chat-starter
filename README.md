@@ -68,7 +68,7 @@ You'll see a streamed response from Frosty AI.
 ## 📎 Helpful Links
 
 - 🧠 [Frosty Console](https://console.gofrosty.ai)
-- 📚 [Frosty API Docs](https://docs.gofrosty.ai)
+- 📚 [Frosty API Docs](https://docs.gofrosty.ai/frosty-ai-docs/api-documentation)
 
 ---
 
